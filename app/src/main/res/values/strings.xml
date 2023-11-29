@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Me localiza</string>
+    <string name="bttn_name1">Iniciar a coleta de dados</string>
+    <string name="bttn_name2">Parar a coleta de dados</string>
+    <string name="titulo1">#Status dos sensores do dispositivo#</string>
+    <string name="chec_acel">Este dispositivo tem acelerômetro ?</string>
+    <string name="chec_gyro">Este dispositivo tem girômetro ?</string>
+    <string name="Texto_checagem_progresso"></string>
+    <string name="caminhoDaPasta"></string>
+</resources>
